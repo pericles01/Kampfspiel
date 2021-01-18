@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1583761595 source:c:\users\junio\desktop\projekt\main.cpp
+	<iostream>
+	"personnage.h"
+
+1583752540 c:\users\junio\desktop\projekt\personnage.h
+	<string>
+
+1583761182 source:c:\users\junio\desktop\projekt\personnage.cpp
+	<iostream>
+	<string>
+	"personnage.h"
+
